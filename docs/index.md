@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: [https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220720_132208.png](https://github.com/zhejingmd/zhejingmd.github.io/blob/main/docs/1.jpg)
+heroImage: https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220720_132208.png
 tagline: zhejing blog
 heroText: vdoing-template
 actionText: 开始浏览 →
